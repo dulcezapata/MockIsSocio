@@ -1,0 +1,12 @@
+{
+  "isSocio": [
+    {
+      "id": 1,
+      "isSocio": true
+    },
+    {
+      "id": 2,
+      "isSocio": false
+    }
+  ]
+}
